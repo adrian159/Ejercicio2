@@ -61,3 +61,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/Ejercicio2/build/
+/Ejercicio2/dist/
